@@ -1,0 +1,42 @@
+export const Questions = [
+  {
+    prompt: "What is the capital of India?",
+    optionA: "Lucknow",
+    optionB: "Chennai",
+    optionC: "Delhi",
+    optionD: "Mumbai",
+    answer: "C",
+  },
+  {
+    prompt: "Who is the father of our nation?",
+    optionA: "Patel",
+    optionB: "Gandhi",
+    optionC: "Nehru",
+    optionD: "Jinna",
+    answer: "B",
+  },
+  {
+    prompt: "Which city is called the Manchester of India?",
+    optionA: "Lucknow",
+    optionB: "Chennai",
+    optionC: "Delhi",
+    optionD: "Mumbai",
+    answer: "D",
+  },
+  {
+    prompt: "What is the longest river in India?",
+    optionA: "Yamuna",
+    optionB: "Cauvery",
+    optionC: "Ganga",
+    optionD: "Brahmaputra",
+    answer: "C",
+  },
+  {
+    prompt: "What is the national animal of India?",
+    optionA: "Tiger",
+    optionB: "Lion",
+    optionC: "Horse",
+    optionD: "Elephant",
+    answer: "A",
+  },
+];
